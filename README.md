@@ -32,9 +32,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
         <li>React</li>
         <li>Redux</li>
         <li>Node.js</li>
-        <li>Mongo DB</li>
         <li>PHP</li>
-        <li>Mysql</li>
     </ul>
 </details>
 
@@ -51,7 +49,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 # Want to know more?
 
 <!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
-
+<!-- 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
@@ -66,3 +64,4 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
 
 Last Edited on: 30/08/2020
+ -->
