@@ -15,7 +15,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/React-brightred" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
 
 <!-- * C/C++
 * Java SE
