@@ -8,7 +8,7 @@
 # About Me
 Hi folks :wave: 
 
-I'm Nihal Chaurasia, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack an App Developer.
+I'm Nihal Chaurasia, a Full Stack Developer in MERN(MongoDB/MySql-Express.js-React.js-Node.js) Stack an App Developer.
 
 I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from LPU University, Punjab. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
 
