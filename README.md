@@ -15,7 +15,7 @@ I love the art of crafting web and mobile applications, and I'm always eager to 
 # Skills
 ## Programming Languages:
 
-[![C](https://img.shields.io/badge/C-lightgrey)](#) [![C++](https://img.shields.io/badge/C++-ff69b4)](#) [![JavaScript (ES6)](https://img.shields.io/badge/JavaScript%20(ES6)-yellow)](#) [![Node.js](https://img.shields.io/badge/Node.js-black)](#) [![React](https://img.shields.io/badge/React-brightred)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-yellow)](#) [![Next.js](https://img.shields.io/badge/Next.js-blue)](#) [![Angular](https://img.shields.io/badge/Angular-red)](#) [![Go](https://img.shields.io/badge/Go-00ADD8)](#) [![HTML](https://img.shields.io/badge/HTML-orange)](#) [![CSS](https://img.shields.io/badge/CSS-blueviolet)](#) [![jQuery](https://img.shields.io/badge/jQuery-blue)](#)
+[![C](https://img.shields.io/badge/C-lightgrey)](#) [![C++](https://img.shields.io/badge/C++-ff69b4)](#) [![JavaScript (ES6)](https://img.shields.io/badge/JavaScript%20(ES6)-violet)](#) [![Node.js](https://img.shields.io/badge/Node.js-black)](#) [![React](https://img.shields.io/badge/React-brightred)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-yellow)](#) [![Next.js](https://img.shields.io/badge/Next.js-blue)](#) [![Angular](https://img.shields.io/badge/Angular-red)](#) [![Go](https://img.shields.io/badge/Go-00ADD8)](#) [![HTML](https://img.shields.io/badge/HTML-orange)](#) [![CSS](https://img.shields.io/badge/CSS-blueviolet)](#) [![jQuery](https://img.shields.io/badge/jQuery-blue)](#)
 
 
 <!-- * C/C++
