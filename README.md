@@ -50,10 +50,8 @@ I love the art of crafting web and mobile applications, and I'm always eager to 
 
 ## Want to know more?
 
-<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
+<!-- My Portfolio: [https://tanaytoshniwal.me](https://nhlchrs.me) -->
 <!-- 
-
-
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nhlchrs?label=Follow%20Me&style=social" />
 
 -----
