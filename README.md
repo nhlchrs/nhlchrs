@@ -6,16 +6,16 @@
 </p> -->
 
 # About Me
-Hi folks! 👋
+Hello there! 👋
 
-I'm Nihal Chaurasia, a Full Stack Developer experienced in MERN(MongoDB/MySql-Express.js-React.js-Node.js) Stack and App Development.
+I'm Nihal Chaurasia, a passionate Full Stack Developer proficient in the MERN (MongoDB/MySql-Express.js-React.js-Node.js) stack. I have a strong foundation in Computer Science Engineering, having completed my Bachelor's degree from LPU University, Punjab.
 
-I hold a Bachelor's degree in Computer Science & Engineering from LPU University, Punjab. I have a strong passion for learning how things work and exploring new tools and technologies. I enjoy actively participating in developer communities and attending events.
+I love the art of crafting web and mobile applications, and I'm always eager to explore new tools and technologies. With a keen interest in problem-solving and continuous learning, I strive to deliver efficient and user-friendly solutions.
 
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Node.js-brightgreen" alt="Node.js" /> <img src="https://img.shields.io/badge/React-brightred" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-blue" alt="Next.js" /> <img src="https://img.shields.io/badge/Angular-red" alt="Angular" />
+![C](https://img.shields.io/badge/C-lightgrey) ![C++](https://img.shields.io/badge/C++-ff69b4) ![JavaScript (ES6)](https://img.shields.io/badge/JavaScript%20(ES6)-brightgreen) ![Node.js](https://img.shields.io/badge/Node.js-brightgreen) ![React](https://img.shields.io/badge/React-brightred) ![TypeScript](https://img.shields.io/badge/TypeScript-yellow) ![Next.js](https://img.shields.io/badge/Next.js-blue) ![Angular](https://img.shields.io/badge/Angular-red)
 
 <!-- * C/C++
 * Java SE
@@ -26,9 +26,9 @@ I hold a Bachelor's degree in Computer Science & Engineering from LPU University
 ## Frameworks:
 
 <details>
-    <summary>view list...</summary>
+    <summary>Click to view the list...</summary>
     <ul>
-        <li>MERN</li>
+        <li>MERN (MongoDB/MySql-Express.js-React.js-Node.js)</li>
         <li>React</li>
         <li>Redux</li>
         <li>Node.js</li>
@@ -38,10 +38,10 @@ I hold a Bachelor's degree in Computer Science & Engineering from LPU University
     </ul>
 </details>
 
-## Database:
+## Databases:
 
 <details>
-    <summary>view list...</summary>
+    <summary>Click to view the list...</summary>
     <ul>
         <li>MongoDB</li>
         <li>MySQL</li>
@@ -63,6 +63,9 @@ I hold a Bachelor's degree in Computer Science & Engineering from LPU University
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
 
 -----
+Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
 
 Last Edited on: 30/08/2020
  -->
+
+Feel free to reach out if you have any further questions or need additional information.
